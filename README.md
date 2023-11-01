@@ -9,7 +9,7 @@ Code of our work `MeaeQ: Mount Model Extraction Attacks with Efficient Queries` 
 - datasets
 - ...
 
-However, in the project's root directory, I have listed my environment configuration in `environment.yml` for reference, which may be inconsistent with the aforementioned recommendation (as I have additionally updated packages in this environment). You can run the following command to create the environment:
+However, in the project's root directory, we have listed my environment configuration in `environment.yml` for reference, which may be inconsistent with the aforementioned recommendation (as I have additionally updated packages in this environment). You can run the following command to create the environment:
 
 ```bash
 conda env export --name your_environment_name > environment.yml
