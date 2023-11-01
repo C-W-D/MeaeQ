@@ -24,6 +24,7 @@ We reference the download links for the pre-trained models as follows:
 - [**bert-base**](https://huggingface.co/bert-base-uncased)
 - [**roberta-base**](https://huggingface.co/roberta-base)
 - [**xlnet-base**](https://huggingface.co/xlnet-base-cased)
+- [**bart-large-mnli**](https://huggingface.co/facebook/bart-large-mnli)
 
 Additionally, we have published simulated victim model weights and datasets for various tasks, queries sampled by different methods at [this location](https://huggingface.co/spaces/wei-cheng/meaeq/tree/main).
 You can also run the following commands for simulating more different victim models.
